@@ -14,3 +14,10 @@ shotty uses the configuration file created by the AWS cki. e.g.
 ## Running
 
 `pipenv run "python shotty/shotty.py"`
+
+## Running
+
+'pipenv run "python shotty/shotty.py <command> <--project=PROJECT>"`
+
+*command* is list, start or stop
+*project* is optional
